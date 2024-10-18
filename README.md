@@ -5,6 +5,7 @@
 - ***Screen capture software***
 - *Easily record and share videos with sound*
 
-`
+```
 xbps-install -Su ssr
-`
+```
+
